@@ -1,8 +1,12 @@
 # Basic_Django_Project
 
-*** First day task ***
+<h3 style="color: red">First day task </h3>
+<ul>
+	<li>python virtual environment setup </li>
+	<li>install django in your system </li>
+	<li>create project Crud_application</li>
+	<li>install app of name Home </li>
+	<li>Create Models </li>
+</ul>
 
-python virtual environment setup
-install django in your system 
-create project Crud_application
-install app of name Home 
+
