@@ -1,6 +1,6 @@
 # Basic_Django_Project
 
-<h3 style="color: red">First day task </h3>
+<h3>First day task </h3>
 <ul>
 	<li>python virtual environment setup </li>
 	<li>install django in your system </li>
