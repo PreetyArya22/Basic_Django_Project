@@ -1,0 +1,11 @@
+li{
+  color: green;
+  text-decoration: none;
+}
+li a{
+  color: rgb(47, 0, 255);
+  text-decoration: none;
+}
+body {
+  /* background: rgb(0, 0, 0) url("../Home/imgs/faq.jpeg") no-repeat; */
+}
